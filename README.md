@@ -7,3 +7,5 @@ https://github.com/ReactiveX/learnrx
 http://reactivex.io/rxjs/manual/tutorial.html
 
 https://github.com/xgrommx/rx-book-pdf
+
+https://bitbucket.org/rxjsia/rxjs-in-action/downloads/
